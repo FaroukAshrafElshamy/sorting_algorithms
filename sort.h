@@ -1,6 +1,5 @@
-#ifndef SORT_H
+#ifdef SORT_H
 #define SPRT_H
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
